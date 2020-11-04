@@ -9,8 +9,8 @@ section {
     margin-top: 1em;
 }
 
-button {
-    background-color: #4caf50; /* Green */
+#clearButton {
+    background-color: #f44336; /* Red */
     border: none;
     color: white;
     padding: 15px 32px;
